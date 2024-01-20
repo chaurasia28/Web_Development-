@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+section{
+    width: 100%;
+    padding:60px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:606px;
+    justify-content: center;
+    background-image:linear-gradient(to right,blueviolet,pink);
+    background-size: cover;
+    color: white;
+}
+h1{
+    font-family: 'Lato';
+    font-size: 2.2em;
+    font-weight: 700;
+}
+h2,p{
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-stretch: ultra-expanded;
+    font-weight:bolder; */
+    font-size: 1.5em;
+  font-weight: 75px;
+  letter-spacing: 3px;
+
+}
+table{
+    width:750px;
+}
+th{
+    background-color:blanchedalmond;
+    color:brown;
+    line-height: 25px;
+    column-width: 100px;
+    letter-spacing: 1px;
+
+}
+td{
+    background-color:blanchedalmond;
+    color:rgb(5, 35, 81);
+    font-weight:bolder;
+    font-style: italic;
+}

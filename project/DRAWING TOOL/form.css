@@ -1,0 +1,38 @@
+body
+{
+    background-image: linear-gradient(to right, blueviolet,pink);
+    padding:1em;
+    width: 95%;
+}
+label{
+    width:300px;
+    display: inline-block;
+    margin:2px;
+}
+#form{
+    color:black;
+    text-decoration:underline dotted red;
+    text-shadow:1px 1px 2px rgb(34, 255, 0), 0 0 1em rgb(0, 225, 255), 0 0 0.2em rgb(13, 0, 255);
+    background-color: white;
+    width:95%;
+    border-radius:10px;
+    align-content: center;
+}
+.first,.second,.third
+{
+    color:black;
+    font-weight: bolder;
+    line-height: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    width:100%;
+    padding:1em;
+
+}
+.form-center{
+    display: flex;
+    width:500px;
+    margin:0 auto;
+}
+
+

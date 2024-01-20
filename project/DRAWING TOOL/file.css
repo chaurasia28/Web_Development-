@@ -1,0 +1,52 @@
+.heading{
+    text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman';
+    text-shadow:1px 1px 2px rgb(255, 0, 179), 0 0 1em rgba(255, 0, 162, 0.622) ;
+    font:italic bold 16px/2 cursive;
+}
+.box{
+    font-family: 'Times New Roman';
+    border-radius: 2em;
+    border:dashed rgb(21, 16, 16);
+    line-height:20px;
+    letter-spacing:1px;
+    word-spacing:4px;
+    /*background-image:url("img6.jpg");
+    /*opacity:0.89;*/
+    font-size: large;
+    font-weight:bold;
+    /* font-style: italic cursive; */
+    color:black;
+    background-color:white;
+    text-shadow:1px 1px 2px rgb(230, 159, 225);
+}
+.idea{
+    color:black(0, 208, 255);
+    text-shadow:1px 1px 2px rgb(255, 0, 149), 0 0 1em rgba(255, 0, 174, 0.622) ;
+    text-transform: uppercase;
+    font:italic  bold 16px/2 cursive;
+    
+}
+body
+{
+   background-image: linear-gradient(to right,blueviolet, pink);
+   border-style:inset;
+   border-width:1em ;
+   padding:1em;;
+}
+.image
+{
+    width:100%;
+    position:relative;
+    margin:50px auto; 
+
+}
+span{
+    text-align:right;
+}
+a{
+    color:black;
+}
+a:hover{
+    color:rgb(111, 11, 232);
+}
